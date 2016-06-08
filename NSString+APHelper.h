@@ -24,9 +24,7 @@
 
 #pragma mark -  Work with String
 
-
-
-// @"   car   bus " -> @"car   bus"
+// @"   car   bus cat     " -> @"car   bus cat"
 - (NSString *)trim;
 
 // @"   car   bus " -> @"car bus"
