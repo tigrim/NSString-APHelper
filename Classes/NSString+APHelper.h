@@ -21,7 +21,7 @@
 - (NSString *)removingAllExeptNumbers;
 - (NSString *)reverse;
 
-// aa__ddd  -> aaBbb
+// aa___ddd  -> aaBbb
 - (NSString *)underscoresToCamelCase:(NSString*)s;
 
 //$ InternalCapitalization -> $_internal_capitalization
