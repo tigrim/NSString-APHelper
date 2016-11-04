@@ -10,18 +10,6 @@
 
 @interface NSString (APHelper)
 
-#pragma mark - MD5 hash
-
-- (NSString *)md5Hash;
-
-#pragma mark - SHA hash
-
-- (NSString *)sha1Hash;
-- (NSString *)sha224Hash;
-- (NSString *)sha256Hash;
-- (NSString *)sha384Hash;
-- (NSString *)sha512Hash;
-
 #pragma mark -  Work with String
 
 // @"   car   bus cat     " -> @"car   bus cat"
