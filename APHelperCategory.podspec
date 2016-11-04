@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-s.name         = "Category"
+s.name         = "APHelperCategory"
 s.version      = "0.0.1"
 s.summary      = "NSString-APHelper Category"
 s.homepage              = "https://github.com/tigrim/NSString-APHelper"
